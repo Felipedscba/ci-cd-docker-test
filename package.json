@@ -1,5 +1,6 @@
 {
-    "name": "docker",
+    "name": "ci-cd-docker",
+    "description": "Testing CI/CD flux using Docker",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -11,7 +12,6 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": "",
     "devDependencies": {
         "@tsconfig/recommended": "^1.0.8",
         "@types/express": "^5.0.0",

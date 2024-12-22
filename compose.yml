@@ -1,0 +1,7 @@
+services:
+  api:
+    image: ci-cd-docker:latest
+    build:
+      context: .
+    ports:
+      - "3000:3000"
